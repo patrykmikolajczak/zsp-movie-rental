@@ -59,6 +59,7 @@ Sprawdź czy stworzona baza spełnia wymmagania:
 2NF  
 3NF  
 https://dbadmin.net.pl/normalizacja-baz-danych-czym-jest-postac-normalna/
+Zrób notatki i przygotuj bazę przed i po normalizacji (zrzut obrazu schematu lub cała baza przed i po normalizacji)
 
 ## Część II
 Stwórz stronę do wypożyczania filmów.
