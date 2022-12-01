@@ -11,7 +11,8 @@ strona główna - index.php
 szczegóły filmu - movie-details.php  
 wyszukaj film - movie-search.php  
 logowanie - login.php  
-rejestracja - logout.php  
+wylogowanie - logout.php  
+rejestracja - register.php  
 #### Po logowaniu
 dodawanie nowego filmu - movie-add.php
 moje filmy - movie-my.php
@@ -21,7 +22,8 @@ lista filmów - movie-list.php
 lista filmów jeszcze nie zaakceptowanych - movie-list.php&  
 szczegóły filmu - movie-details.php  
 logowanie - login.php  
-rejestracja - logout.php  
+wylogowanie - logout.php  
+rejestracja - register.php  
 
 ## Struktura projektu
 Struktura którą trzeba stworzyć w projekcie  
@@ -41,10 +43,12 @@ Struktura którą trzeba stworzyć w projekcie
 │   ├── movie-add.php
 │   ├── movie-my.php
 │   ├── login.php
-│   └── logout.php
+│   ├── logout.php
+│   └── register.php
 ├── admin
 │   ├── movie-list.php
 │   ├── movie-details.php
+│   ├── add-admin.php
 │   ├── login.php
 │   └── logout.php
 ```
@@ -54,7 +58,7 @@ Projekt musi pozwalać na dodanie użytkownika, dodanie użytkownika który moż
 Dodanie filmu i możliwość jego zatwierdzania (fil zanim pojawi się na liście ogólnodostępnej musi być zaakceptowany przez administratora)
 
 ## Część I
-Sprawdź czy stworzona baza spełnia wymmagania:  
+Sprawdź czy stworzona baza spełnia wymagania:  
 1NF  
 2NF  
 3NF  
